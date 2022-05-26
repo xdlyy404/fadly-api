@@ -1,0 +1,35 @@
+{
+  "name": "fadly-api",
+  "version": "1.0.0",
+  "description": "package module kotz api",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xdlyy404/fadly-api.git"
+  },
+  "keywords": [
+    "fadly-api"
+  ],
+  "author": "Fadly ID",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xdlyy404/fadly-api/issues"
+  },
+  "homepage": "https://github.com/xdlyy404/fadly-api#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.10",
+    "file-type": "^16.5.3",
+    "form-data": "^4.0.0",
+    "fs": "^0.0.1-security",
+    "node-fetch": "^2.6.1",
+    "qs": "^6.10.1",
+    "request": "^2.88.2"
+  },
+  "directories": {
+    "lib": "lib"
+  }
+}
